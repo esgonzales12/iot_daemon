@@ -5,6 +5,12 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+* Estefan Gonzales
+* Assignment: Your own Daemon!
+* compilation command: gcc -o iotd iotd.c
+**/
+
 #define TRUE (1)
 
 static char DAEMON_NAME [] = "iotd";
